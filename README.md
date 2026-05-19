@@ -11,4 +11,5 @@ Hands-on security monitoring, log analysis, and packet triage exercises.
 ---
 
 ## 🔬 Hands-On Defense Projects
-*(Coming Soon)*
+### 🌐 Network Security & Forensics
+* **[Incident Response: Wireshark Traffic Analysis (Qakbot Infection)](./Wireshark-Malware-Analysis/01_Qakbot_Malware_Analysis.md)** — A deep-dive forensic investigation of a network packet capture (`.pcap`) isolating a workstation compromise, tracking malicious payload delivery via HTTP, and extracting Indicators of Compromise (IoCs).
