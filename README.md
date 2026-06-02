@@ -13,3 +13,7 @@ Hands-on security monitoring, log analysis, and packet triage exercises.
 ## 🔬 Hands-On Defense Projects
 ### 🌐 Network Security & Forensics
 * **[Incident Response: Wireshark Traffic Analysis (Qakbot Infection)](./Wireshark-Malware-Analysis/01_Qakbot_Malware_Analysis.md)** — A deep-dive forensic investigation of a network packet capture (`.pcap`) isolating a workstation compromise, tracking malicious payload delivery via HTTP, and extracting Indicators of Compromise (IoCs).
+  
+### 💻 Endpoint Security & Telemetry
+
+* **[Threat Hunting: Sysmon Endpoint Forensics](./Endpoint-Forensics-Sysmon/01_Phase_One_Sysmon_Setup.md)** — Deployed Microsoft Sysmon utilizing SwiftOnSecurity configurations to generate high-fidelity telemetry. Simulated attacker behaviors (reconnaissance, persistence, C2 beaconing) and conducted live threat hunting using Windows Event Viewer to extract Indicators of Compromise (IoCs).
