@@ -4,4 +4,4 @@
 Deployed and configured a Splunk Enterprise SIEM instance to practice log ingestion and security data analysis.
 
 ## Evidence
-![Splunk Dashboard](Splunk-Screenshot.png)
+![Splunk Dashboard](./Splunk%20Dashboard.png)
